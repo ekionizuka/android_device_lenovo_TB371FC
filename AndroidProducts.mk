@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TB371FC.mk
+    $(LOCAL_DIR)/twrp_TB371FC.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TB371FC-user \
-    omni_TB371FC-userdebug \
-    omni_TB371FC-eng
+    twrp_TB371FC-user \
+    twrp_TB371FC-userdebug \
+    twrp_TB371FC-eng
